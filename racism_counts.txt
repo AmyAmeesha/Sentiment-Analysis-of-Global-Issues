@@ -1,0 +1,9 @@
+2295
+{u'Canada': 26, u'United Kingdom': 145, u'Australia': 115, u'South Africa': 40, u'United Arab Emirates': 28, u'United States': 449}
+{u'United Kingdom': 18, u'United States': 106, u'Australia': 30, u'South Africa': 14}
+{u'United States': 68, u'Nigeria': 11, u'Australia': 11, u'India': 12, u'France': 12}
+{u'United States': 115, u'United Kingdom': 10, u'Canada': 18, u'France': 11}
+{u'Canada': 20, u'United Kingdom': 38, u'Australia': 14, u'South Africa': 13, u'Denmark': 7, u'Singapore': 6, u'France': 7, u'United States': 261, u'Malaysia': 6, u'Netherlands': 7, u'Germany': 7, u'Kenya': 22, u'Nigeria': 13, u'Norway': 7, u'New Zealand': 6}
+{u'Canada': 28, u'Italy': 8, u'France': 21, u'Ireland': 12, u'Argentina': 3, u'Norway': 4, u'Nigeria': 2, u'Ghana': 4, u'Australia': 29, u'Czechia': 2, u'Zimbabwe': 3, u'Germany': 12, u'Bosnia and Herzegovina': 3, u'Belgium': 3, u'Hong Kong': 2, u'Spain': 6, u'Liberia': 4, u'Indonesia': 2, u'Finland': 4, u'United States': 274, u'Trinidad and Tobago': 3, u'Sweden': 5, u'Japan': 3, u'Switzerland': 6, u'New Zealand': 3, u'Pakistan': 2, u'Portugal': 3, u'South Africa': 10, u'Egypt': 2, u'United Arab Emirates': 3, u'Mexico': 5, u'India': 11, u'Azerbaijan': 3, u'United Kingdom': 75, u'Malaysia': 4, u'Colombia': 4, u'Kenya': 3}
+
+My Project 91048

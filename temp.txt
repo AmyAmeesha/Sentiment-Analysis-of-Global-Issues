@@ -1,0 +1,65 @@
+18435
+                                                    text lang country
+0      RT @DeclanIfeanyi: Operation "Lafia dole" (Pea...   en    None
+1      RT @oscarokeke1: Python Dance II: Video Showin...   en    None
+2      RT @odenjinji: While Python dancer Buhari  pri...   en    None
+3      RT @WWCBelfast: We're hosting an event for #na...   en    None
+4      RT @TheHackersNews: The Pirate Bay site caught...   en    None
+5      Ruby Weaver gets acquainted with a guy for sex...   en    None
+6      @siilvertongue alas, like most of my best joke...   en    None
+7      RT @djrubynyc: 仁王立ち姿でドヤ顔なアヌビスくん、退場の際はシッポを踏まないよ...   ja    None
+8      #Scripting for #Artists in @thefoundrynuke par...   en    None
+9      Software Engineer in Test at Apex (Portland, O...   en    None
+10     eboy - hello https://t.co/JTS26KNmZb  #npm #ja...   en    None
+11                      Ruby kepedean bgtt #JYTSCTVeps29   in    None
+12     RT @djrubynyc: アヌビスの3D版で遊んだことはある！😁\nhttps://t....   ja    None
+13     #Parse dict into a dict python\n#Tech #News #H...   en    None
+14     RT @JNizinkiewicz: Premier donosi do CBA na sw...   pl    None
+15     #Emplois Développeur Javascript/NodeJS/React /...   fr    None
+16     Sterling silver star studs https://t.co/FNvfnU...   en    None
+17     RT @ibmoptimization: Latest DOcplex update. #p...   en    None
+18                                         人生苦短，我用Python   zh    None
+19     Rubyさんのドラえもんポケットから出た～。お写真。\n残り２連どこにあるのでしょう。\n香...   ja    None
+20     Xbean organize the free workshop on 23rd of Se...   en    None
+21     RT @TheHackersNews: The Pirate Bay site caught...   en    None
+22     “Currying in JavaScript” by Rajan V https://t....   en    None
+23     RT @pyconfr: Il y aura un #jobboard ce week-en...   fr    None
+24     RT @WWCBelfast: We're hosting an event for #na...   en    None
+25      #MachineLearning #Python https://t.co/Z8Abk3FxMD  und    None
+26     RT @ParallelRecruit: Why is #Python Growing So...   en    None
+27     RT @HNTweets: Flow and TypeScript conservative...   en    None
+28     RT @djrubynyc: アヌビスの3D版で遊んだことはある！😁\nhttps://t....   ja    None
+29     RT @TheHackersNews: The Pirate Bay site caught...   en    None
+...                                                  ...  ...     ...
+18405  RT @KirkDBorne: Matplotlib Cheat Sheet: https:...   en    None
+18406  RT @FRNKYY: The WORST Of The 3AM CHALLENGE [Ru...   en    None
+18407  RT @BertrandDechoux: @dafnevk @PyData @pydataa...   en    None
+18408  RT @RyanRMUFC: Rival clubs taunting us about M...   en    None
+18409                                         ¡Ruby-san!   ht    None
+18410  Modern Language Wars, PHP vs Python vs Ruby ht...   en    None
+18411                                         ¡Ruby-san!   ht    None
+18412  RT @megguyer: Awww I love you so much I'm so g...   en    None
+18413  The #ruby-graphviz gem is sweet -- but it woul...   en    None
+18414  Modern Language Wars, PHP vs Python vs Ruby ht...   en    None
+18415  carolinevancamp : Quantum AI Big Data Cloud Ad...   en    None
+18416  RT @theRoUS: The #ruby-graphviz gem is sweet -...   en    None
+18417  Well done Ruby. Nice to see you up there. http...   en    None
+18418  Modern Language Wars, PHP vs Python vs Ruby ht...   en    None
+18419  Modern Language Wars, PHP vs Python vs Ruby ht...   en    None
+18420  Python For.Offensive PenTest - A Complete Prac...   en    None
+18421  Modern Language Wars, PHP vs Python vs Ruby ht...   en    None
+18422  A empresa IATECAM anunciou 01 vagas para o car...   pt    None
+18423  Quelloffenes JavaScript-Framework von SAP | iX...   cy    None
+18424  The invisible harp. A 3D camera and Python hac...   en    None
+18425  Modern Language Wars, PHP vs Python vs Ruby ht...   en    None
+18426  RT @MinaCreamu: Daily Sketch - Ruby (RWBY) htt...   en    None
+18427  #NowPlaying On https://t.co/N8pk7l2Cdg\nRuby B...   en    None
+18428  RT @rosiedoc666: Meet ELLA she was #KILLED by ...   en    None
+18429  RT @SecNewsBot: Hacker News - Using the scikit...   en    None
+18430                                  PYTHON 2 IS AWFUL   en    None
+18431  RT @lulyge2010: @RUBYELENA1 @Inma64She @susy_s...   es    None
+18432  RT @adriancolyer: If you're not already you mi...   en    None
+18433  RT @umaar: Full Stack Web Developer Path - htt...   en    None
+18434  RT @muskrosevintage: Antique Edwardian 9ct Gol...   en    None
+
+[18435 rows x 3 columns]
